@@ -1,2 +1,3 @@
 # SoftUniDemoGitHubProject
-Demo Projects
+
+Demo Projects. I edited this on GitHub directly 😎!
